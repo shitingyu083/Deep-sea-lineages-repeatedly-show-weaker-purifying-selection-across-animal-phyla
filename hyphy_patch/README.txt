@@ -1,0 +1,1 @@
+Patched copy of HyPhy 2.5.96 RELAX.bf: only L1243-1247 (ancestral substitutions, JSON reporting) commented out. Validated t473/t475 (2026-10-24): fit/LRT within run-to-run optimizer noise of original.
